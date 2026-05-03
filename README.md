@@ -10,11 +10,7 @@ Hi, I’m Khurniawan — a Motion Graphic & Creative Designer with over 5 years 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=bw_matx&theme=dark&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-[![](https://komarev.com/ghpvc/?username=bw_matx&icon=3&color=12)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=bw_matx&icon=3&color=12)](https://adhiwibowo.space)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@wibowotok) 
