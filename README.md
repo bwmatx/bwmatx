@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Khurniawan — a Motion Graphic & Creative Designer with over 5 years of experience.<br><br>I create visuals that don’t just look good — they communicate, engage, and leave a lasting impression. From motion graphics to UI/UX, I bring ideas to life through thoughtful design.<br><br>Currently evolving as a junior coder with a creative mindset, I’m passionate about learning new technologies and continuously improving my skills to bridge design and development.<br><br>Turning ideas into visuals — and now, into experiences.
+Hi, I’m Adhi Wibowo, You can call me AWe, a Motion Graphic & Creative Designer with over 5 years of experience.<br><br>I create visuals that don’t just look good, they communicate, engage, and leave a lasting impression. From motion graphics to UI/UX, I bring ideas to life through thoughtful design.<br><br>Currently evolving as a junior coder with a creative mindset, I’m passionate about learning new technologies and continuously improving my skills to bridge design and development.<br><br>Turning ideas into visuals — and now, into experiences.
 
 
 ## 🌐 Socials:
